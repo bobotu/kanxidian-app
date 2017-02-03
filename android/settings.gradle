@@ -1,0 +1,3 @@
+rootProject.name = 'kanxidian_app'
+
+include ':app'
